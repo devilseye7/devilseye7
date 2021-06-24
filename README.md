@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @devilseye7
+- 👋 Hi, I’m @Nikhil.Phalke
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning C, Python and SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Mobile: +917061406917
+- 📫 Reach me on: +917061406917
 
 <!---
 devilseye7/devilseye7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
